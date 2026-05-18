@@ -1,0 +1,31 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "먼데이피치",
+      "department": "액��러레이�팀",
+      "budget": "�력 필요",
+      "target": "정기 행사 운영 및 유망 스타트� 발굴",
+      "status": "정상 추진",
+      "color": "green"
+    },
+    {
+      "id": 2,
+      "name": "프리팁스 지원 및 실증지원",
+      "department": "액��러레이�팀",
+      "budget": "�력 필요",
+      "target": "기�별 전문지원 및 사�화 실증",
+      "status": "정상 추진",
+      "color": "green"
+    },
+    {
+      "id": 3,
+      "name": "바이오 의료기기 특화 프로그램",
+      "department": "지원운영실",
+      "budget": "�력 필요",
+      "target": "오송 바이오클러스터 기반 특화 지원",
+      "status": "점검 필요",
+      "color": "orange"
+    }
+  ]
+}

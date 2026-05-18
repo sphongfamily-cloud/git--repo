@@ -1,0 +1,31 @@
+{
+  "regulations": [
+    {
+      "id": 1,
+      "name": "정관",
+      "category": "기관 운영",
+      "revised": "2025.01.15",
+      "status": "이사회 및 중기부 승인 필요",
+      "manager": "경영전략실",
+      "color": "red"
+    },
+    {
+      "id": 2,
+      "name": "인사규정",
+      "category": "인사",
+      "revised": "2024.12.20",
+      "status": "내부 검토",
+      "manager": "운영지원팀",
+      "color": "blue"
+    },
+    {
+      "id": 3,
+      "name": "회계규정",
+      "category": "예산·회계",
+      "revised": "2024.11.01",
+      "status": "예산집행 기준",
+      "manager": "경영전략실",
+      "color": "green"
+    }
+  ]
+}

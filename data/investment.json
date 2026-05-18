@@ -1,0 +1,72 @@
+{
+  "investments": [
+    {
+      "id": 1,
+      "title": "직접투자",
+      "value": "21",
+      "unit": "억원",
+      "description": "센터 자체 투자 및 초기기업 투자",
+      "color": "blue"
+    },
+    {
+      "id": 2,
+      "title": "후속투자 유치",
+      "value": "248.9",
+      "unit": "억원",
+      "description": "외부 투자기관 연계 후속투자",
+      "color": "green"
+    },
+    {
+      "id": 3,
+      "title": "TIPS 선정",
+      "value": "5",
+      "unit": "개사",
+      "description": "TIPS 3개사 + Deep-Tech TIPS 2개사",
+      "color": "purple"
+    },
+    {
+      "id": 4,
+      "title": "운용 펀드",
+      "value": "4",
+      "unit": "개",
+      "description": "충북창업펀드 및 연계 펀드",
+      "color": "orange"
+    }
+  ],
+  "programs": [
+    {
+      "id": 1,
+      "name": "먼데이피치",
+      "type": "발굴",
+      "result": "24회 운영 / 115개사 참여",
+      "manager": "액셀러레이팅팀",
+      "status": "정상 추진",
+      "color": "green"
+    },
+    {
+      "id": 2,
+      "name": "TIPS·Deep-Tech TIPS",
+      "type": "협약",
+      "result": "총 5개사 선정",
+      "manager": "벤처투자팀",
+      "status": "목표 달성",
+      "color": "blue"
+    }
+  ],
+  "funds": [
+    {
+      "id": 1,
+      "name": "충청 의료 정밀 조합",
+      "size": "55억원",
+      "type": "단독 GP",
+      "detail": "초기 및 시리즈 투자 연계"
+    },
+    {
+      "id": 2,
+      "name": "충북창업 펀드",
+      "size": "41억원",
+      "type": "Co-GP",
+      "detail": "충북권 예비 및 극초기 투자"
+    }
+  ]
+}
